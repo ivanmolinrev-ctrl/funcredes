@@ -1,0 +1,8 @@
+# 📊 Dashboard FUNCREDES
+
+Este proyecto es un **dashboard interactivo en Streamlit** para visualizar las experiencias y proyectos de FUNCREDES.
+
+## 🚀 Cómo ejecutar localmente
+1. Instalar dependencias:
+   ```bash
+   pip install -r requirements.txt
